@@ -2,7 +2,7 @@
 RootModule="ChangeScreenResolution.psm1"
 GUID="488127aa-8772-4319-9a62-31c726c09d1a"
 Author="Krisztian Buscsei"
-ModuleVersion="1.0"
+ModuleVersion="1.2"
 Description="This module give tools to change screen resolution from PowerShell console on Windows"
 
 # Private data to pass to the module specified in RootModule/ModuleToProcess
@@ -16,7 +16,7 @@ PrivateData = @{
         #Category = ""
 
         # Keyword tags to help users find this module via navigations and search.
-        Tags = @("Screen Resolution")
+        Tags = @("ScreenResolution")
 
         # The web address of an icon which can be used in galleries to represent this module
         #IconUri = "http://pesterbdd.com/images/Pester.png"
